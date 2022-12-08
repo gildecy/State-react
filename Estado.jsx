@@ -3,7 +3,7 @@ import './App.css'
 
 
 
-// USANDO STATE ESTADOS NO REACT ALTERANDO SEU VALOR
+// alterando valor no campo de imput com state no react
 export function App() {
  const [name, setName] = useState('');
   
